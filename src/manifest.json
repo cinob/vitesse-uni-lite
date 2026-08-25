@@ -1,0 +1,31 @@
+{
+  "name": "vitesse-uni-lite",
+  "appid": "",
+  "description": "A clean and lightweight uni-app starter template.",
+  "versionName": "1.0.0",
+  "versionCode": "100",
+  "transformPx": false,
+  "uniStatistics": {
+    "enable": false
+  },
+  "mp-weixin": {
+    "appid": "",
+    "setting": {
+      "urlCheck": false
+    },
+    "usingComponents": true,
+    "mergeVirtualHostAttributes": true
+  },
+  "mp-alipay": {
+    "appid": "",
+    "usingComponents": true,
+    "mergeVirtualHostAttributes": true
+  },
+  "h5": {
+    "title": "vitesse-uni-lite",
+    "router": {
+      "mode": "hash"
+    }
+  },
+  "vueVersion": "3"
+}
