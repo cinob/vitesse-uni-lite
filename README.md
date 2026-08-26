@@ -41,6 +41,18 @@
 
 ## 🚀 快速上手
 
+### 0. 快速创建新项目
+
+使用 `degit` 基于此模板直接拉取并创建一个全新的轻量工程：
+
+```bash
+# 拉取模板到 my-uni-app 目录
+npx degit cinob/vitesse-uni-lite my-uni-app
+
+# 进入新项目目录
+cd my-uni-app
+```
+
 ### 1. 环境准备与依赖安装
 
 推荐使用 [Bun](https://bun.sh/) 或 [pnpm](https://pnpm.io/) 作为包管理器：
