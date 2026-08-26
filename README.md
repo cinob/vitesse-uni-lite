@@ -1,7 +1,7 @@
 # vitesse-uni-lite
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dcloudio/uni-app/dev/docs/.vuepress/public/logo.png" width="80" height="80" alt="uni-app logo" />
+  <img src="./public/logo.svg" width="96" height="96" alt="vitesse-uni-lite logo" />
 </p>
 
 <p align="center">

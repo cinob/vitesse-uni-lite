@@ -24,9 +24,11 @@ const envInfo = ref({
   <AppLayout title="vitesse-uni-lite" :show-back="false">
     <view class="flex flex-col items-center py-16px">
       <!-- 品牌徽标与名称 -->
-      <view class="circle-64 flex-center bg-blue-500/10 text-32px text-blue-500 font-bold shadow-sm">
-        ⚡️
-      </view>
+      <image
+        class="h-64px w-64px shadow-sm"
+        src="/static/logo.png"
+        mode="aspectFit"
+      />
 
       <text class="mt-14px text-22px text-gray-900 font-bold tracking-tight">
         vitesse-uni-lite
